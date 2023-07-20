@@ -1,0 +1,3 @@
+*.mp4
+.swp
+resnet-34_kinetics.onnx
